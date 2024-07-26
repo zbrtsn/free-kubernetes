@@ -59,6 +59,13 @@ List of free Trials/Credit for Managed Kubernetes Services
 - [AWS Free Credit for Open Source Projects](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/)
 
 
+# Local Ones
+- **Minikube**: Minikube is a tool that makes it easy to run Kubernetes locally.
+  - It creates a small, single-node Kubernetes cluster on your computer, making it easy to test and develop applications without needing a full-scale cluster.
+  - Minikube works on various operating systems and supports different virtualization options, making it ideal for learning and experimentation with Kubernetes.
+  - Click [here](https://minikube.sigs.k8s.io/docs/start/?arch=%2Flinux%2Fx86-64%2Fstable%2Fbinary+download) to get a minikube.
+
+
 # Sources
 - https://medium.com/techprimers/free-tiers-in-different-cloud-platforms-for-trying-out-kubernetes-2ccda3f296dc
 - The Internet
@@ -78,6 +85,6 @@ List of free Trials/Credit for Managed Kubernetes Services
 - [varsubham](https://github.com/varsubham)
 - [aep](https://github.com/aep)
 - [HelixSpiral](https://github.com/HelixSpiral)
-- 
+- [zbrtsn](https://github.com/zbrtsn)
 # Issues, more resources? 
 Please create an issue in this repository or send a PR with your changes/additions
